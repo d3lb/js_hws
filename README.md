@@ -8,4 +8,6 @@ only this repository
 
 | Home Works Done       | Due Date   |
 | --------------------- | ---------- |
-| EventListener HW#1    | 6/5/2025   |
+| EventListener HW#1    | 5 June 2025   |
+| עריכת מסמך     HW#1       | 20 June 2025   |
+
